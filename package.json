@@ -1,0 +1,26 @@
+{
+  "name": "myFirtNodeBot",
+  "version": "0.1.0",
+  "description": "Sample johnny five project",
+  "dependencies": {
+    "johnny-five": "latest"
+  },
+  "author": "gorhgorh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "readmeFilename": "readme.md",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://gorhgorh@github.com/gorhgorh/catRemote.git"
+  },
+  "keywords": [
+    "cat",
+    "lasers",
+    "fun",
+    "robots"
+  ],
+  "license": "BSD"
+}
